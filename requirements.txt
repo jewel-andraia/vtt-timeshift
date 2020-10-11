@@ -1,0 +1,2 @@
+docopt==0.6.2
+webvtt-py==0.4.5
